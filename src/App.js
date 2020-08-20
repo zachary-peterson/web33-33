@@ -7,17 +7,14 @@ function App() {
   return (
     <main>
       <h1>Zachary Peterson</h1>
-      <h2>
-        Deployed with{' '}
-        <a
-          href="https://vercel.com/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Vercel
-        </a>
-        !
-      </h2>
+      
+      <p>Ad in deserunt anim ad amet cupidatat ad in deserunt ex sint culpa. Dolor do nulla fugiat reprehenderit qui tempor veniam. Magna ex magna officia aliqua tempor ad laboris minim anim. Aute reprehenderit et dolor qui enim consequat non id ex laboris laborum. Officia irure aliqua officia incididunt in officia amet mollit.</p>
+
+      <br/>
+
+      <p>Irure velit minim dolore exercitation nulla qui tempor laborum elit excepteur. Veniam Lorem laboris dolor mollit anim proident ad veniam. Ipsum elit non aute irure ullamco nisi laboris aliquip veniam.</p>
+
+
       <p>
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
